@@ -1,2 +1,3 @@
 # README.md
-About me
+- Student, Evolutionary Anthropology
+- Programming beginner :wave:
